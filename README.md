@@ -1,2 +1,17 @@
 # battleship_project
-Group project for CIS 121; interactive battleship terminal game. 
+(Fraction of) CIS 121 group project. 
+
+Interactive battleship game
+
+My part:
+User placement of ships before "start of game"
+
+User inputs: 
+- Chosen ship
+- Coordinate placed
+- Direction of ship from coordinate
+
+Outputs:
+- Updating grid
+- Updating menu
+- 
