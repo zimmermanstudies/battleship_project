@@ -12,6 +12,6 @@ User inputs:
 - Direction of ship from coordinate
 
 Outputs:
-- Updating grid
+- Updating grid (eventually final grid)
 - Updating menu
-- 
+- Prompts for user choices
